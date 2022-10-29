@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Ravindu Panthaka
+
+Hi there, I'm Pulasthi Aberathne👋
+
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning in High school
 - 💞️ I’m looking to collaborate on ...
