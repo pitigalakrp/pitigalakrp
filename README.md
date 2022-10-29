@@ -1,5 +1,5 @@
 
-Hi there, I'm Pulasthi Aberathne👋
+Hi there, I'm Ravindu Panthaka👋
 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning in High school
