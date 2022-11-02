@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on CiberViewSoft
   
 
-- 🌱 I’m currently learning Laravel  
+- 🌱 I’m currently learning React  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
